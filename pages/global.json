@@ -1,0 +1,24 @@
+{
+    "title": "Kinjall Kafe",
+    "subtitle1": "We Love <br> Declious Food",
+    "subtitle2": "Eat Healthy <br> Stay Healthy",
+    "subtext": "With a stylish interior, warm and friendly atmosphere and a diverse and quiet public, it is the place to have a chat with friends or pick up a cup on the way to work. The character of the place makes it the focus of the neighborhood, the hub that binds the whole area together in a casual and intimate setting.",
+    "main_img1": "images/main2.jpg",
+    "main_img2": "images/main1.jpg",
+    "about_img": "images/cafe2.jpg",
+    "abouttext": "The little coffee shop at the corner is an excellent place to start the day, which makes it central to the neighborhood. All sorts of people living around visit it regularly to meet friends and begin their day with a cup of coffee in the circle of friends rather than alone in their kitchens. This makes it a great place and attracts the whole community to the area where they can take a break from their daily routines and inhale the aromatic drink with the magic awakening effect.",
+    "about": {
+        "images": [
+            { "image": "/images/lattee2.jpg", "caption": "Lattee" },
+            { "image": "/images/burger.jpg", "caption": "Special Burger" },
+            { "image": "/images/dessert2.jpg", "caption": "Cheese Cake" }
+        ]
+    },
+    "chef": "images/chef.jpg",
+    "time": [
+        { "day": "MON - FRI", "hours": "9am-10pm" },
+        { "day": " SATURDAY", "hours": "9pm-12pm" },
+        { "day": "SUNDAY", "hours": "11am-12pm" }
+    ],
+    "footertext": "Best place to hang an have some coffee."
+}
